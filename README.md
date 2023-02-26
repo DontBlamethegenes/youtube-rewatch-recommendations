@@ -24,7 +24,9 @@ After the history has been submitted. The user will be able to instantly view ke
 - Favorite Channel
 ![alt text](favoriteChannel.png)
 - Weekday with the most watch time
+![alt text](favoriteWatchDay.png)
 - Videos rewatched the most times
+![alt text](mostReplayed.png)
 
 Key insights are great, but here is where the real magic happens. The user will be able to search for high-value videos by topic. 
 > If the user inputs "Productivity", the app will produce a list of ten video titles that have been selected and ranked using a "Value Score" calculated in the backend by an NLP algorithm. 
