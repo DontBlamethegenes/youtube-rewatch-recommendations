@@ -6,7 +6,7 @@ You have probably watched at least one life-changing video on YouTube, like a Te
 
 But did you save it in a list? Odds are you probably didn't. Now you wish you did. You wish you had a list containing some of the best videos you watched this year. You wish you could easily filter through your entire search history for those special videos. 
 
-You feel like you're missing out on some motivation, a key idea, or a new insight. A friend brings up a situation he is struggling through and you remember that YouTube helped you through the same situation, but you don't remember what video in particular.
+You feel like you're missing out on some motivation, a key idea, or a new insight. Maybe a friend brings up a situation they are struggling through and you remember that YouTube helped you through the same situation, but you don't remember what video in particular.
 
 Wouldn't it be great if there was a way to search your YouTube history for the most impactful videos you have ever watched? 
 
@@ -20,7 +20,9 @@ After the history has been submitted. The user will be able to instantly view ke
 
 - Average daily watch time
 - Favorite Video Category
+![alt text](favoriteCategory.png)
 - Favorite Channel
+![alt text](favoriteChannel.png)
 - Weekday with the most watch time
 - Videos rewatched the most times
 
