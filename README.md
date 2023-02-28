@@ -12,7 +12,7 @@ Wouldn't it be great if there was a way to search your YouTube history for the m
 
 ## Solution:
 
-The goal for this project is to create a Web App that will allow users to easily find **** high-value videos**** that they have already watched. 
+The goal for this project is to create a Web App that will allow users to easily find **** high-value videos **** that they have already watched. 
 
 The app will require the users' YouTube watch history which can be downloaded from [Google Takeout](https://takeout.google.com/settings/takeout). 
 
